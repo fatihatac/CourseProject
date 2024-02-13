@@ -1,0 +1,14 @@
+C:\Users\fatac\source\repos\CourseProject\CourseProject\bin\Debug\net8.0\CourseProject.exe
+C:\Users\fatac\source\repos\CourseProject\CourseProject\bin\Debug\net8.0\CourseProject.deps.json
+C:\Users\fatac\source\repos\CourseProject\CourseProject\bin\Debug\net8.0\CourseProject.runtimeconfig.json
+C:\Users\fatac\source\repos\CourseProject\CourseProject\bin\Debug\net8.0\CourseProject.dll
+C:\Users\fatac\source\repos\CourseProject\CourseProject\bin\Debug\net8.0\CourseProject.pdb
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.AssemblyInfoInputs.cache
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.AssemblyInfo.cs
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.dll
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\refint\CourseProject.dll
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.pdb
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\CourseProject.genruntimeconfig.cache
+C:\Users\fatac\source\repos\CourseProject\CourseProject\obj\Debug\net8.0\ref\CourseProject.dll
