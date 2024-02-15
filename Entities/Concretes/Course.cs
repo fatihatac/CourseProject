@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CourseProject.Core.Entities;
 
 namespace Entities.Concretes
 {
-    public class Course
+    public class Course:IEntity
     {
 
         public int Id { get; set; }
